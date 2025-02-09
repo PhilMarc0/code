@@ -1,2 +1,1 @@
-# code
-Case competition codes
+# Data Science x Maersk Case Competition
